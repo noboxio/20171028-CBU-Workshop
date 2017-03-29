@@ -1,0 +1,11 @@
+
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: NoBoxLab20170325-user6
+  host: NoBoxLab20170325-user6
+  disk_quota: 1024M
+  services:
+  - NoBoxLab20170325-user6-cloudantNoSQLDB
