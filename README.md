@@ -16,10 +16,10 @@ To Start:
 7. Connect cf to bluemix using the example that was shown on the same page that gave you installation instructions.
 8. `cf push project name`
 9. You will then need to create the following services:
-  -Conversation
-  -Text to Speech
-  -Speech to Text
-  -Tone Analysis
+   - Conversation
+   - Text to Speech
+   - Speech to Text
+   - Tone Analysis
 10. Make sure that you connect them to the app you just created.  If you don't it will ask for information for each of the services in Node-RED.
 11. you will need to restage your app or restart it, you can restage via cf or restart via gui
 12. Upload the conversation.json file to the Conversation engine/service.  Click on the service and then click launch tool.
