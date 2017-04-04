@@ -1,12 +1,12 @@
-#Author(s): Brian McGinnis
-#           Patrick McGinnis
-#Date: March-24-2017
-#Organization: NoBox
-#Website: nobox.io
-#GitHub: github.com/noboxio         
+# Author(s): Brian McGinnis
+#            Patrick McGinnis
+# Date: March-24-2017
+# Organization: NoBox
+# Website: nobox.io
+# GitHub: github.com/noboxio         
 #
-#Purpose: To upload a Node-Red app to Bluemix via cloud foundry
-#Usage: ./auto.sh <username> <password> <organization> <space> <appname>
+# Purpose: To upload a Node-Red app to Bluemix via cloud foundry
+# Usage: ./auto.sh <username> <password> <organization> <space> <appname>
 
 
 username=$1
