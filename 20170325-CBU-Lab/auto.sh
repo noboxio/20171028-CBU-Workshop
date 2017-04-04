@@ -1,3 +1,10 @@
+#Author(s): Brian McGinnis
+#           Patrick McGinnis
+#Date: March-24-2017
+#Purpose: To upload a Node-Red app to Bluemix via cloud foundry
+#Usage: ./auto.sh <username> <password> <organization> <space> <appname>
+
+
 username=$1
 password=$2
 organization=$3
