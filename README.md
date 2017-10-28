@@ -2,7 +2,7 @@
 
 ## PLEASE NOTE THAT THIS LAB INFORMATION IS NOT 100% COMPLETE, WE ARE WORKING ON CREATING A VIDEO TO GO WITH THIS LAB
 
-This repository includes the files and some basic instructions used for the CBU BUC E-day lab.
+This repository includes the files and some basic instructions used for the CBU Workshop: Introduction to Watson and Bluemix.
 
 The PDF: IBM InterConnect 2017 Session 2765 Handout.pdf is the lab handout from IBM InterConnect 2017 that we used to create the lab.  Please note that this file is not our lab!
 
